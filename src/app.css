@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+    --color-sleep-lavanda-dark: #94A1EE;
+    --color-sleep-lavanda: #AAB7F8;
+    --color-sleep-lavanda-light: #C2C9FA;
+    --color-sleep-purple-deep: #5A70F0;
+    --color-sleep-purple-dark: #7183F2;
+    --color-sleep-white: #DCE2FC;
+}
